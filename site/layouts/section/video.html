@@ -1,0 +1,14 @@
+{{ define "main" }}
+
+<div class="ph3 bg-off-white ">
+	<div class="mw6 center pv3 f6">
+
+	{{ range $i, $a := .Params.videolinks }}
+	<iframe class="ytvideo" src="https://www.youtube.com/embed/{{ $a }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	{{ end }}
+
+
+	</div>
+</div>
+
+{{ end }}

@@ -113,3 +113,10 @@ Uncomment out the line below to help debug layout issues
 .f7 {
     font-size: .50rem;
 }
+
+.ytvideo {
+  display: block;
+  width: 100%;
+  height: 20em;
+  margin-bottom: 2em;
+}
