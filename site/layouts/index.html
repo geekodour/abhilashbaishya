@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+{{ range $i, $a := .Params.fetphotos }}
+    <img src="{{ $a }}" class="br0"/>
+{{ end }}
+
+<div class="lazy-container">
+{{ range $i, $a := .Params.homephotos }}
+    <img src="https://c.ndtvimg.com/2019-05/2ncrjufk_narendra-modi-pti_625x300_17_May_19.jpg" data-src="{{ $a }}" class="br0 lazy db"/>
+{{ end }}
+</div>
+
+{{ end }}
