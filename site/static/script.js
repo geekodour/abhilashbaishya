@@ -13,7 +13,6 @@ function autorun() {
 
       function onIntersect(entries, observer) {
         entries.forEach(function(entry) {
-          console.log(entry)
           if (entry.intersectionRatio > 0) {
             console.log(entry)
             var image = entry.target;
