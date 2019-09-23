@@ -1,5 +1,5 @@
 ---
-title: Abhilash Baishya
+title: Abhilash
 subtitle:
 fetphotos:
   - /img/127233904285.jpg
