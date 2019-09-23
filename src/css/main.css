@@ -110,6 +110,10 @@ Uncomment out the line below to help debug layout issues
     font-family: mon;
 }
 
+.f6o5 {
+    font-size: .60rem;
+}
+
 .f7 {
     font-size: .50rem;
 }
