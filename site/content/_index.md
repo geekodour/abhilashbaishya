@@ -1,18 +1,15 @@
 ---
 title: Abhilash
-subtitle:
-fetphotos:
-  - /img/127233904285.jpg
-  - /img/137289923735.jpg
+subtitle: baishya
 homephotos:
+  - /img/187304584660.jpg
+  - /img/171091118770.jpg
   - /img/138213743100.jpg
-  - /img/138214338305.jpg
-  - /img/139722476465.jpg
   - /img/139725878650.jpg
   - /img/140090691290.jpg
-  - /img/150174801990.jpg
   - /img/151056337555.jpg
   - /img/156448005755.jpg
+  - /img/171091075270.jpg
   - /img/157315801105.jpg
   - /img/165695393025.jpg
   - /img/166428179325.jpg
@@ -25,8 +22,6 @@ homephotos:
   - /img/166642909750.jpg
   - /img/166643508810.jpg
   - /img/167244731895.jpg
-  - /img/171091075270.jpg
-  - /img/171091118770.jpg
   - /img/171091164970.jpg
   - /img/171091210870.jpg
   - /img/171091298925.jpg
@@ -59,8 +54,6 @@ homephotos:
   - /img/187304531945.jpg
   - /img/187304555485.jpg
   - /img/187304565890.jpg
-  - /img/187304584660.jpg
   - /img/187304622100.jpg
-
 ---
 
