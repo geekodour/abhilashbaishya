@@ -1,6 +1,5 @@
 function autorun() {
     var lazyloadImages;    
-  
     if ("IntersectionObserver" in window) {
       lazyloadImages = document.querySelectorAll(".lazy");
       console.log(lazyloadImages)
@@ -54,10 +53,7 @@ function autorun() {
       }
   
       document.addEventListener("scroll", lazyload);
-      //window.addEventListener("resize", lazyload);
-      //window.addEventListener("orientationChange", lazyload);
     }
 }
-if (document.addEventListener) document.addEventListener("DOMContentLoaded", autorun, false);
-else if (document.attachEvent) document.attachEvent("onreadystatechange", autorun);
-else window.onload = autorun;
+
+window.onload = autorun;
