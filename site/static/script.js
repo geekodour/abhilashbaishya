@@ -16,9 +16,9 @@ function autorun() {
             console.log(entry)
             var image = entry.target;
             image.src = image.dataset.src;
-            image.classList.add("h-auto");
+            //image.classList.add("h-auto");
             image.classList.remove("lazy");
-            image.classList.remove("h-400");
+            //image.classList.remove("h-400");
             observer.unobserve(image);
           }
         });
