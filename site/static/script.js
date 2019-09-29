@@ -1,8 +1,17 @@
 function autorun() {
+
+    // color menu item
+    menuItems = document.getElementsByClassName('navbaritem')
+    for (i = 0; i < menuItems.length; i++) {
+      if (menuItems[i].href == window.location.href ) {
+        menuItems[i].classList.add('sunflower')
+      }
+    }
+
+
     var lazyloadImages;    
     if ("IntersectionObserver" in window) {
       lazyloadImages = document.querySelectorAll(".lazy");
-      console.log(lazyloadImages)
 
       let options = {
         root: null,
@@ -13,7 +22,6 @@ function autorun() {
       function onIntersect(entries, observer) {
         entries.forEach(function(entry) {
           if (entry.intersectionRatio > 0) {
-            console.log(entry)
             var image = entry.target;
             image.src = image.dataset.src;
             //image.classList.add("h-auto");

@@ -8,6 +8,10 @@
   color: var(--highlight);
 }
 
+.sunflower {
+  color: var(--sunflower);
+}
+
 .white {
   color: var(--white);
 }
