@@ -61,10 +61,10 @@ function colorchange() {
     menuItems = document.getElementsByClassName('navbaritem')
     for (i = 0; i < menuItems.length; i++) {
       if (menuItems[i].href == window.location.href ) {
-        menuItems[i].classList.add('sunflower')
+        menuItems[i].classList.add('o-50')
       }
     }
 }
 
 window.onload = autorun;
-//document.addEventListener("DOMContentLoaded", colorchange, false);
+document.addEventListener("DOMContentLoaded", colorchange, false);
