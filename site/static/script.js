@@ -1,14 +1,5 @@
 function autorun() {
 
-    // color menu item
-    menuItems = document.getElementsByClassName('navbaritem')
-    for (i = 0; i < menuItems.length; i++) {
-      if (menuItems[i].href == window.location.href ) {
-        menuItems[i].classList.add('sunflower')
-      }
-    }
-
-
     var lazyloadImages;    
     if ("IntersectionObserver" in window) {
       lazyloadImages = document.querySelectorAll(".lazy");
@@ -65,4 +56,15 @@ function autorun() {
     }
 }
 
+function colorchange() {
+    // color menu item
+    menuItems = document.getElementsByClassName('navbaritem')
+    for (i = 0; i < menuItems.length; i++) {
+      if (menuItems[i].href == window.location.href ) {
+        menuItems[i].classList.add('sunflower')
+      }
+    }
+}
+
 window.onload = autorun;
+//document.addEventListener("DOMContentLoaded", colorchange, false);
