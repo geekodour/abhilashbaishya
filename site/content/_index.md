@@ -24,6 +24,7 @@ homephotos:
   - /img/167244731895.jpg
   - /img/171091164970.jpg
   - /img/171091210870.jpg
+  - /img/dsc02013.jpg
   - /img/171091298925.jpg
   - /img/171091693150.jpg
   - /img/173606016465.jpg
