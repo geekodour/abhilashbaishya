@@ -2,7 +2,7 @@
 title: Abhilash
 subtitle: baishya
 homephotos:
-  - /img/lifafa-1-1.jpg
+  - /img/lifafa-1.jpg
   - /img/187304584660.jpg
   - /img/171091118770.jpg
   - /img/138213743100.jpg
@@ -44,5 +44,16 @@ homephotos:
   - /img/187304555485.jpg
   - /img/187304565890.jpg
   - /img/187304622100.jpg
+  - /img/acrossseconds-1.jpg
+  - /img/saptak-1.jpg
+  - /img/imphal-1.jpg
+  - /img/antariksh-1.jpg
+  - /img/imphal-2.jpg
+  - /img/nothing-anon-1.jpg
+  - /img/nothing-anon-2.jpg
+  - /img/acrossseconds-2.jpg
+  - /img/acrossseconds-3.jpg
+  - /img/acrossseconds-4.jpg
+  - /img/lifafa-2.jpg
 ---
 
