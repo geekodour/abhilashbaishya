@@ -2,7 +2,7 @@
 title: Abhilash
 subtitle: baishya
 homephotos:
-  - /img/5.jpg
+  - /img/lifafa-1-1.jpg
   - /img/187304584660.jpg
   - /img/171091118770.jpg
   - /img/138213743100.jpg
