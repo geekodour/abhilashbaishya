@@ -5,6 +5,7 @@ homephotos:
   - /img/acrossseconds-1.jpg
   - /img/nothing-anon-2.jpg
   - /img/acrossseconds-2.jpg
+  - /img/kumail-center-frame-1.jpg
   - /img/acrossseconds-3.jpg
   - /img/lifafa-2.jpg
   - /img/3-min.jpg
@@ -55,6 +56,5 @@ homephotos:
   - /img/187304555485.jpg
   - /img/187304565890.jpg
   - /img/187304622100.jpg
-  - /img/kumail-center-frame-1.jpg
----
+  ---
 
