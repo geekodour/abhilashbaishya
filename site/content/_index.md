@@ -60,5 +60,6 @@ homephotos:
   - /img/dsc06702.jpg
   - /img/fever2.jpg
   - /img/fever3.jpg
+  - /img/mgk1.jpg
 ---
 
