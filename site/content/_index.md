@@ -57,5 +57,6 @@ homephotos:
   - /img/187304555485.jpg
   - /img/187304565890.jpg
   - /img/187304622100.jpg
+  - /img/dsc06702.jpg
 ---
 
