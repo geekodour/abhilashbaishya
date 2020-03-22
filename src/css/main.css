@@ -89,6 +89,8 @@ Uncomment out the line below to help debug layout issues
 @import './imports/_debug';
 */
 
+@import url('https://fonts.googleapis.com/css?family=Poppins:600&display=swap');
+
 body {
   background-color: white;
 }
@@ -107,6 +109,9 @@ body {
   src: url("/fonts/mon.otf") format('opentype');
 } 
 
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
 .jose {
     font-family: jose;
 }
