@@ -89,7 +89,7 @@ Uncomment out the line below to help debug layout issues
 @import './imports/_debug';
 */
 
-@import url('https://fonts.googleapis.com/css?family=Poppins:600&display=swap');
+/*@import url('https://fonts.googleapis.com/css?family=Poppins:600&display=swap');*/
 
 body {
   background-color: white;
@@ -109,20 +109,24 @@ body {
   src: url("/fonts/monument.otf") format('opentype');
 } 
 
+/*
 @font-face {
   font-family: jose;
   font-weight: 700;
   font-style: bold;
   src: url("/fonts/jose.ttf") format('truetype');
-} 
+}*/ 
 
+/*
 @font-face {
   font-family: mon;
   font-weight: 700;
   font-style: bold;
   src: url("/fonts/mon.otf") format('opentype');
 } 
+*/
 
+/*
 .poppins {
     font-family: 'Poppins', sans-serif;
 }
@@ -131,7 +135,7 @@ body {
 }
 .mon {
     font-family: mon;
-}
+}*/
 .monument {
     font-family: monument;
 }
