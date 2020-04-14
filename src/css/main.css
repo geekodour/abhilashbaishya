@@ -96,6 +96,20 @@ body {
 }
 
 @font-face {
+  font-family: popreg;
+  font-weight: 400;
+  font-style: normal;
+  src: url("/fonts/popreg.otf") format('opentype');
+} 
+
+@font-face {
+  font-family: monument;
+  font-weight: 700;
+  font-style: bold;
+  src: url("/fonts/monument.otf") format('opentype');
+} 
+
+@font-face {
   font-family: jose;
   font-weight: 700;
   font-style: bold;
@@ -117,6 +131,13 @@ body {
 }
 .mon {
     font-family: mon;
+}
+.monument {
+    font-family: monument;
+}
+
+.popreg {
+    font-family: popreg;
 }
 
 .f6o5 {
