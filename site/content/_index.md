@@ -6,6 +6,7 @@ homephotos:
   - /img/fever3.jpg
   - /img/mgk1.jpg
   - /img/dsc06702.jpg
+  - /img/sampa.jpg
   - /img/free.jpeg
   - /img/acrossseconds-1.jpg
   - /img/nothing-anon-2.jpg
@@ -22,6 +23,7 @@ homephotos:
   - /img/saptak-1.jpg
   - /img/187304584660.jpg
   - /img/171091118770.jpg
+  - /img/shayan.jpg
   - /img/138213743100.jpg
   - /img/139725878650.jpg
   - /img/dsc02726.jpg
@@ -61,8 +63,6 @@ homephotos:
   - /img/187304555485.jpg
   - /img/187304565890.jpg
   - /img/187304622100.jpg
-  - /img/shayan.jpg
-  - /img/sampa.jpg
   - /img/chrms.jpg
 ---
 
