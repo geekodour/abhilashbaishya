@@ -3,10 +3,13 @@ title: Abhilash
 subtitle: baishya
 homephotos:
   - /img/fever2.jpg
+  - /img/mgk2.jpg
   - /img/fever3.jpg
+  - /img/sampa1.jpg
   - /img/mgk1.jpg
   - /img/dsc06702.jpg
   - /img/sampa.jpg
+  - /img/lifafa3.jpg
   - /img/free.jpeg
   - /img/acrossseconds-1.jpg
   - /img/nothing-anon-2.jpg
@@ -64,8 +67,5 @@ homephotos:
   - /img/187304565890.jpg
   - /img/187304622100.jpg
   - /img/chrms.jpg
-  - /img/lifafa3.jpg
-  - /img/mgk2.jpg
-  - /img/sampa1.jpg
 ---
 
