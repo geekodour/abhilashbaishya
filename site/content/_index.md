@@ -64,5 +64,8 @@ homephotos:
   - /img/187304565890.jpg
   - /img/187304622100.jpg
   - /img/chrms.jpg
+  - /img/lifafa3.jpg
+  - /img/mgk2.jpg
+  - /img/sampa1.jpg
 ---
 
