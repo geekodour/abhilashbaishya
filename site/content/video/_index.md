@@ -9,4 +9,4 @@ videolinks:
   - PMe_ucpi6lU
 ---
 
-Get in touch with me at abhilash@gmail.com
+Get in touch with me at notbaishya@gmail.com
