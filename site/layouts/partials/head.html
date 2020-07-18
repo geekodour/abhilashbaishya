@@ -22,11 +22,17 @@
 
 	<!-- Open Graph -->
 	<meta property="og:type" content="business.business">
-	<meta property="og:title" content="Abhilash Baishya">
+	<meta property="og:title" content="{{ .Title }} | {{ $.Site.Title }}">
 	<meta property="og:url" content="/">
 	<meta property="og:description" content="Photographer / Filmmaker" />
 	<meta property="og:image" content="https://abhilashbaishya.xyz/img/mgk1.jpg">
 	<script src="/script.js"></script>
+	
+	<meta property="twitter:card" content="summary_large_image">
+	<meta property="twitter:url" content="/">
+	<meta property="twitter:title" content="{{ .Title }} | {{ $.Site.Title }}">
+	<meta property="twitter:description" content="Photographer / Filmmaker">
+	<meta property="twitter:image" content="https://abhilashbaishya.xyz/img/mgk1.jpg">
 
   {{ if .IsHome }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
