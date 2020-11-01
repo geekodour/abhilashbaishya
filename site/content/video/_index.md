@@ -6,6 +6,8 @@ videolinks:
   - O0bhY1f2W9U
   - 84nRKIjH4us
   - iI9z4BjaUio
+  - I6YVHEdHn3U
+  - ou5ywIf9XJs
   - Yk78MKkqWFI
   - fN9hHnEUtU0
   - PMe_ucpi6lU
